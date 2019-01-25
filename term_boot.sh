@@ -1,4 +1,6 @@
-figlet HELLO KC
+figlet HELLO  KC
+
+fortune | cowsay | lolcat
 
 echo Today is: 
 date

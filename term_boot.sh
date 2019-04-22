@@ -19,6 +19,7 @@ pwd
 REPO_CLASS='address'
 cd $REPO_CLASS
 echo "Pulling Class Work Repo"
+echo " ... "
 git pull
 cd ~
 
